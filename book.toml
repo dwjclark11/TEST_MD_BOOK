@@ -1,0 +1,6 @@
+[book]
+authors = ["dwjclark11"]
+language = "en"
+multilingual = false
+src = "src"
+title = "JADE Tilemap Editor Documentation"
